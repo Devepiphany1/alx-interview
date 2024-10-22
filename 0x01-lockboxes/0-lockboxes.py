@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def can_unlock_all(boxes):
+def can_Unlock_All(boxes):
 """Determines if all boxes can be unlocked."""
     n = len(boxes)
     opened = {0}  # Start with the first box already opened
